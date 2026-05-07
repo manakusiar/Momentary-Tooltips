@@ -51,9 +51,9 @@ public class MomentaryTooltipsClient {
             List<Component> upgrade = new ArrayList<>();
 
             for (Component line : tooltip) {
-                if (Config.SHOW_ATTRIBUTES.getAsBoolean() &&
+                if (Config.SHOW_ATTRIBUTES.getAsBoolean() && (
                         checkForTranslationKey(line, "attribute.modifier", true) ||
-                        checkForTranslationKey(line, "attribute.name.", true)) {
+                        checkForTranslationKey(line, "attribute.name.", true))) {
                     attributes.add(line);
                 }
                 if (Config.SHOW_ATTRIBUTES.getAsBoolean() && checkForTranslationKey(line, "item.modifiers.", true)) {
