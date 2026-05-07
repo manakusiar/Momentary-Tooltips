@@ -1,0 +1,9 @@
+{
+  "momentarytooltips.configuration.title": "MomentaryTooltips Configs",
+  "momentarytooltips.configuration.section.momentarytooltips.common.toml": "MomentaryTooltips Configs",
+  "momentarytooltips.configuration.section.momentarytooltips.common.toml.title": "MomentaryTooltips Configs",
+  "momentarytooltips.configuration.modEnabled": "Mod Enabled",
+  "momentarytooltips.configuration.showEnchants": "Show Enchants",
+  "momentarytooltips.configuration.showTooltipIcon": "Show Tooltip Icon",
+  "momentarytooltips.configuration.tooltipIcon": "Tooltip Icon"
+}
