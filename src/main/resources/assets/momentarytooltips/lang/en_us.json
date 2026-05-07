@@ -4,6 +4,12 @@
   "momentarytooltips.configuration.section.momentarytooltips.common.toml.title": "MomentaryTooltips Configs",
   "momentarytooltips.configuration.modEnabled": "Mod Enabled",
   "momentarytooltips.configuration.showEnchants": "Show Enchants",
+  "momentarytooltips.configuration.showAttributes": "Show Attributes",
   "momentarytooltips.configuration.showTooltipIcon": "Show Tooltip Icon",
-  "momentarytooltips.configuration.tooltipIcon": "Tooltip Icon"
+  "momentarytooltips.configuration.tooltipIcon": "Tooltip Icon",
+  "momentarytooltips.configuration.showAppliesTo": "Show 'Applies To:'",
+  "momentarytooltips.configuration.showUpgrade": "Show Upgrades",
+  "momentarytooltips.configuration.showIngredients": "Show Ingredients",
+  "momentarytooltips.configuration.showDescription": "Show Description",
+  "momentarytooltips.configuration.showLore": "Show Lore"
 }
